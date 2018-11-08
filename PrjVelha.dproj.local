@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/11/02 17:20:28.000.201,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/02 18:37:39.000.027,C:\Users\USUARIO\Desktop\UntPincipal.dfm=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/11/02 18:37:39.000.027,C:\Users\USUARIO\Desktop\UntPincipal.pas=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/02 18:37:54.000.400,C:\Users\USUARIO\Desktop\PrjJogo_Da_Velha.dproj=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/11/08 14:06:24.728,C:\Users\UCS\Pictures\UntVelha.pas=C:\Users\UCS\Pictures\Jogo da Velha\UntPincipal.pas</Transaction>
+    <Transaction>2018/11/08 14:06:24.728,C:\Users\UCS\Pictures\UntVelha.dfm=C:\Users\UCS\Pictures\Jogo da Velha\UntPincipal.dfm</Transaction>
+    <Transaction>2018/11/08 14:06:48.924,C:\Users\UCS\Pictures\PrjVelha\PrjVelha.dproj=C:\Users\UCS\Pictures\Jogo da Velha\PrjJogo_Da_Velha.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
